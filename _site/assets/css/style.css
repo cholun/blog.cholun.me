@@ -1,6 +1,9 @@
+/*思源黑*/
+@import url(http://fonts.googleapis.com/earlyaccess/notosanstc.css);
+
 /*#general*/
 body {
-    font-family: "Source Sans Pro", "Open Sans", sans-serif;
+    font-family: 'Noto Sans TC', 'Open Sans', sans-serif;
     background: #fbfbfb;
     color: #222;
     line-height: 1.7em;
