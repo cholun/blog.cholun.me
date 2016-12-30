@@ -6,9 +6,43 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 27 Dec 2016 19:18:42 +0800</pubDate>
-    <lastBuildDate>Tue, 27 Dec 2016 19:18:42 +0800</lastBuildDate>
+    <pubDate>Thu, 29 Dec 2016 20:01:21 +0800</pubDate>
+    <lastBuildDate>Thu, 29 Dec 2016 20:01:21 +0800</lastBuildDate>
     <generator>Jekyll v3.3.1</generator>
+    
+      <item>
+        <title>iPhone 4S to 7</title>
+        <description>&lt;h2 id=&quot;iphone-4s-to-7&quot;&gt;iPhone 4S to 7&lt;/h2&gt;
+
+&lt;p&gt;因為iPhone 4S的電池似乎差不多惹，撐不了一天，所以換了iPhone 7。看地圖的時候覺得4S的寬度有點窄，所以捨棄iPhone SE，想說螢幕大一點也是不錯。&lt;/p&gt;
+
+&lt;h3 id=&quot;pros&quot;&gt;pros&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;hey siri隨叫隨到，自己為有秘書。&lt;/li&gt;
+  &lt;li&gt;指紋解鎖方便多了。&lt;/li&gt;
+  &lt;li&gt;防水雖然少用到，但不用擔心潮到壞掉。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;cons&quot;&gt;cons&lt;/h3&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;還是4S的尺寸比較方便。&lt;/li&gt;
+  &lt;li&gt;沒有耳機孔：macbook只有usb type-c，反倒沒有lightning，為啥iPhone不也換成usb type-c？連自家的手機配線都和macbook不相通，有點莫名。lightning也不會是耳機的未來吧。&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h3 id=&quot;試著不更新ios&quot;&gt;試著不更新iOS&lt;/h3&gt;
+
+&lt;p&gt;以前總覺得4S可以一直更新軟體很爽，沒有早早就被放生。雖然功能變多，可是速度越來越慢。現在就想要死守穩定的版本就好。&lt;/p&gt;
+
+&lt;p&gt;倒是Apple的更新通知變得很煩人，有種強制升級的騷擾。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 29 Dec 2016 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2016/12/29/iPhone-4S-to-7.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2016/12/29/iPhone-4S-to-7.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Apple Watch Series 2 Outdoor Run</title>
@@ -169,33 +203,6 @@
         <guid isPermaLink="true">http://localhost:4000/2016/05/11/%E5%8F%B0%E5%8C%97%E5%B0%8F%E7%B1%B3%E4%B9%8B%E5%AE%B6.html</guid>
         
         <category>xiaomi</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>prepaid-card</title>
-        <description>&lt;h2 id=&quot;預付卡&quot;&gt;預付卡&lt;/h2&gt;
-
-&lt;p&gt;宅宅沒有朋友可以打電話，一個月188的月租費根本用不完，於是換成預付卡，儲值一次可以用180天。痾…還是打不完，QQ。不過像我這種用量少的小咖，從月租費轉成預付卡，Z&amp;gt;B。&lt;/p&gt;
-
-&lt;h3 id=&quot;pros-省去不必要的花費&quot;&gt;pros: 省去不必要的花費&lt;/h3&gt;
-
-&lt;p&gt;現在大家都用通訊軟體，有line、facetime。電話除了用來訂位外，好像也沒什麼用到，月租的電話費顯得沒有必要；網路方面，只用line或google maps，其實流量也不大。在外沒有固網的時候，就當作是給眼睛的離線休息，不用一直黏在螢幕上。&lt;/p&gt;
-
-&lt;h3 id=&quot;cons-無法漫遊繳費相對而言麻煩&quot;&gt;cons: 無法漫遊、繳費相對而言麻煩&lt;/h3&gt;
-
-&lt;p&gt;缺點是離開台灣就沒有收訊惹。雖然沒有一秒幾十萬上下，但在國外可以打電話的話，還是比較安心。另一個缺點是繳費相對麻煩：月租費可以用自動扣款，預付卡時間到了要自己去買點數。用渣打信用卡購買預付卡的點數，還要輸入我根本就不知道是啥的密碼，花旗信用卡就不用，不知道為什麼。&lt;/p&gt;
-
-&lt;h3 id=&quot;skype&quot;&gt;skype&lt;/h3&gt;
-
-&lt;p&gt;反正出國幾乎會租個短期網路，想說買個skype點數，只要能上網，就可以打電話。但不知道skype怎麼判定的，可能是我的skype帳號跟microsoft共用的關係，就算我vpn到其他國家，skype還是會導回到skype.pchome.com.tw，而在pchome購買還要填一堆資料（似乎是因為台灣法規的關係），覺得很麻煩。爬文有人說在skype原廠購買和pchome有差，而且被pchome染指後就回不去了。&lt;/p&gt;
-
-&lt;p&gt;之後，我申請個新帳號，想說用用看iphone的in-app purchase。skype似乎會擋ip：如果是台灣的ip，skype app內的credit沒辦法按；但如果vpn到美國，credit上就有台幣$150的選項可以購買（app store的帳號是台灣的）。就加減用用看唄。&lt;/p&gt;
-</description>
-        <pubDate>Tue, 05 Apr 2016 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2016/04/05/prepaid-card.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2016/04/05/prepaid-card.html</guid>
         
         
       </item>
