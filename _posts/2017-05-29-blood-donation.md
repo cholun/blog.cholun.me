@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "blood donation"
+title:  "捐血"
 date:   2017-05-29
 tags:
 -
