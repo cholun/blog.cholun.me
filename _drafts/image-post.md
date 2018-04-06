@@ -1,9 +1,7 @@
 ---
 layout: post
 title:  ""
-date:   201
+date:   2018-
 tags:
 - 
 ---
-
-![](/assets/media/.jpg)

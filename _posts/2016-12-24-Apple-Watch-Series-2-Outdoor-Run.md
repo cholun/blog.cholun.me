@@ -4,7 +4,6 @@ title:  "Apple Watch Series 2 Outdoor Run"
 date:   2016-12-24
 tags:
 - Apple
-- review
 ---
 ![Apple Watch Series 2 Outdoor Run](/assets/media/2016-12-24-Apple-Watch-Series-2-Outdoor-Run.jpg)
 

@@ -4,7 +4,6 @@ title:  "Apple Watch Series 2 Pool Swim"
 date:   2016-12-23
 tags:
 - Apple
-- review
 ---
 ![Apple Watch Series 2 Pool Swim](/assets/media/2016-12-23-Apple-Watch-Series-2-Pool-Swim.jpg)
 

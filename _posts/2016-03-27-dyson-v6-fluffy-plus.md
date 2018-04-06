@@ -3,7 +3,7 @@ layout: post
 title:  "dyson v6 fluffy plus"
 date:   2016-03-27
 tags:
--
+- dyson
 ---
 
 ![](/assets/media/2016-03-27-dyson-v6-fluffy-plus.jpg)
