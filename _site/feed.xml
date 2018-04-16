@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 14 Apr 2018 19:54:49 +0800</pubDate>
-    <lastBuildDate>Sat, 14 Apr 2018 19:54:49 +0800</lastBuildDate>
+    <pubDate>Mon, 16 Apr 2018 13:25:19 +0800</pubDate>
+    <lastBuildDate>Mon, 16 Apr 2018 13:25:19 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
     
       <item>
@@ -61,6 +61,23 @@
         <pubDate>Tue, 03 Apr 2018 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2018/04/03/rip-40043.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/04/03/rip-40043.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>米家聲波電動牙刷</title>
+        <description>&lt;h2 id=&quot;米家聲波電動牙刷&quot;&gt;米家聲波電動牙刷&lt;/h2&gt;
+
+&lt;p&gt;第一次使用電動牙刷，牙齒不太習慣牙刷震動的感覺，有時牙齒還會被牙刷塑膠的部分給震到。&lt;/p&gt;
+
+&lt;p&gt;清潔部分，牙齒可以明顯感受到電動牙刷比手動的要來的古溜；電量的話，充一個電可以用一個禮拜沒問題，不會太麻煩。&lt;/p&gt;
+
+&lt;p&gt;以前刷牙是有嚕過就好，這款小米牙刷是每三十秒會頓一次，提醒我刷了多久。還不錯啦。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 27 Mar 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/03/27/mi-electric-toothbrush.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/03/27/mi-electric-toothbrush.html</guid>
         
         
       </item>
@@ -173,25 +190,6 @@
         <guid isPermaLink="true">http://localhost:4000/2017/08/24/iMac-QQ.html</guid>
         
         <category>Apple</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>捐血</title>
-        <description>&lt;h2 id=&quot;捐血&quot;&gt;捐血&lt;/h2&gt;
-
-&lt;p&gt;話說我一直以為我的血型是O型，直到半年前第一次捐血，才知道原來我是B型。=.=&lt;/p&gt;
-
-&lt;p&gt;上次捐250cc，這次可以捐500cc。護士頗謹慎，抽完血還量血壓，督促我吃點餅乾，怕血糖太低。我仍舊不喜歡被針扎的刺痛感，也不喜歡機器間歇性吸血的感覺。捐完血在市政府附近晃晃的時候，還真有感受到些微的頭暈與噁心。&lt;/p&gt;
-
-&lt;p&gt;府前廣場地下停車場不知道為什麼蚊子超多，雖然有提供免費的咖啡，但是蠻難喝的。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 29 May 2017 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2017/05/29/blood-donation.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2017/05/29/blood-donation.html</guid>
-        
-        <category>murmur</category>
         
         
       </item>
