@@ -5,7 +5,7 @@ date:   2018-02-19
 tags:
 - 
 ---
-![](/assets/media/.jpg)
+![Panasonic F-Y20EH](/assets/media/2018-02-19-Panasonic-F-Y20EH.jpg)
 
 原本是想買小米的空氣清淨機，後來看到有二合一的空氣清淨除濕機覺得也不錯。
 
