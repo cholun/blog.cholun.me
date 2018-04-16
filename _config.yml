@@ -11,7 +11,7 @@ email: cholun@outlook.com
 description: > # this means to ignore newlines until "baseurl:"
     a spontaneous blog.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://cholun.github.io" # the base hostname & protocol for your site
+url: "https://blog.cholun.me" # the base hostname & protocol for your site
 twitter_username:
 github_username:
 
