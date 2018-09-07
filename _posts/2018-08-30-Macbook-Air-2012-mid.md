@@ -3,7 +3,7 @@ layout: post
 title:  "Macbook Air 2012 mid"
 date:   2018-08-30
 tags:
-- 
+- Apple
 ---
 ![Macbook Air 2012 mid](/assets/media/2018-08-30-Macbook-Air-2012-mid.jpg)
 
