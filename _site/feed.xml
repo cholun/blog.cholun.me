@@ -6,26 +6,9 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 28 Nov 2018 13:39:02 +0800</pubDate>
-    <lastBuildDate>Wed, 28 Nov 2018 13:39:02 +0800</lastBuildDate>
+    <pubDate>Thu, 10 Jan 2019 15:43:54 +0800</pubDate>
+    <lastBuildDate>Thu, 10 Jan 2019 15:43:54 +0800</lastBuildDate>
     <generator>Jekyll v3.7.3</generator>
-    
-      <item>
-        <title>2018選舉</title>
-        <description>&lt;h2 id=&quot;2018選舉&quot;&gt;2018選舉&lt;/h2&gt;
-
-&lt;p&gt;同溫層太厚，想說躺著選，輕鬆碾壓。沒想到開票後，從3%的差距一直往下掉，最後只差三千多張。&lt;/p&gt;
-
-&lt;p&gt;盯著中選會的網站直到凌晨兩點多，第一次感受到選舉的緊張。開完票後看著直播，發現窗外的聲音似乎是造勢晚會那傳來的。&lt;/p&gt;
-
-&lt;p&gt;活在自己的世界。&lt;/p&gt;
-</description>
-        <pubDate>Sun, 25 Nov 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/11/25/election.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/11/25/election.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>Toyota Prius</title>
@@ -184,6 +167,21 @@
         <pubDate>Sat, 28 Apr 2018 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2018/04/28/Subaru-Stella.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/04/28/Subaru-Stella.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>米家掃地機器人</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2018-04-15-mi-robot-vacuum.jpg&quot; alt=&quot;mi robot vacuum&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;去年的1111沒有購買，想說新的機型出來，舊款就會降價了。不過，台灣一直沒上市的消息，於是趁這波米粉節入手。不知道為啥下訂的時候，pchome只能分10期，過了米粉節又有12期的選項。是我賒太多帳的關係嗎。&lt;/p&gt;
+
+&lt;p&gt;沒用過其他的掃地機器人，而這款小米讓我很驚豔。掃個地而已，就把地圖都畫出來惹。看那路徑圖，還頗厲害，打趴那些自己為連網就是智慧的家電。但集塵盒跟Dyson一樣，折角很多，不好清理。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 15 Apr 2018 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2018/04/15/mi-robot-vacuum.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/04/15/mi-robot-vacuum.html</guid>
         
         
       </item>
