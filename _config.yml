@@ -28,3 +28,6 @@ google_analytics:
 # Sitemaps for GitHub Pages
 plugins:
   - jekyll-sitemap
+
+# Gems
+gems: [jekyll-paginate]
