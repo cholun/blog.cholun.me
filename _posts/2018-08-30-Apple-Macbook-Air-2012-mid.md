@@ -5,7 +5,7 @@ date:   2018-08-30
 tags:
 - Apple
 ---
-![Apple Macbook Air 2012 mid](/assets/media/2018-08-30-Apple-Macbook-Air-2012-mid)
+![Apple Macbook Air 2012 mid](/assets/media/2018-08-30-Apple-Macbook-Air-2012-mid.jpg)
 
 第一次上網拍賣、面交在幾個小時內完成，很幸運。貪婪心態，這麼快就賣掉，想說是不是價格開得太低惹。
 

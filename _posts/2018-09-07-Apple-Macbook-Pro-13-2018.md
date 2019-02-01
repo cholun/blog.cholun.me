@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title:  "Apple Macbook Pro 13' 2018"

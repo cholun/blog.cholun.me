@@ -5,8 +5,8 @@
     <description>Spontaneous and trivial things.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 19:21:18 +0800</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 19:21:18 +0800</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 19:27:20 +0800</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 19:27:20 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -143,19 +143,8 @@
       </item>
     
       <item>
-        <title>Apple Macbook Pro 13 2018</title>
-        <description>
-&lt;hr /&gt;
-&lt;p&gt;layout: post
-title:  “Apple Macbook Pro 13’ 2018”
-date:   2018-09-07
-tags:&lt;/p&gt;
-&lt;ul&gt;
-  &lt;li&gt;
-    &lt;h2 id=&quot;apple&quot;&gt;Apple&lt;/h2&gt;
-    &lt;h2 id=&quot;apple-macbook-pro-13-2018&quot;&gt;Apple Macbook Pro 13’ 2018&lt;/h2&gt;
-  &lt;/li&gt;
-&lt;/ul&gt;
+        <title>Apple Macbook Pro 13' 2018</title>
+        <description>&lt;h2 id=&quot;apple-macbook-pro-13-2018&quot;&gt;Apple Macbook Pro 13’ 2018&lt;/h2&gt;
 
 &lt;p&gt;其實Macbook Air的效能夠我用了，但想要有好一點的螢幕，偏偏阿婆好幾年沒更新Macbook Air。看了Macbook的價格，猜想Macbook Air的後繼機種大概也不會多平價。&lt;/p&gt;
 
@@ -187,6 +176,8 @@ tags:&lt;/p&gt;
         <link>http://localhost:4000/2018/09/07/Apple-Macbook-Pro-13-2018.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/07/Apple-Macbook-Pro-13-2018.html</guid>
         
+        <category>Apple</category>
+        
         
       </item>
     
@@ -207,7 +198,7 @@ tags:&lt;/p&gt;
     
       <item>
         <title>Macbook Air 2012 mid</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2018-08-30-Apple-Macbook-Air-2012-mid&quot; alt=&quot;Apple Macbook Air 2012 mid&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2018-08-30-Apple-Macbook-Air-2012-mid.jpg&quot; alt=&quot;Apple Macbook Air 2012 mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;第一次上網拍賣、面交在幾個小時內完成，很幸運。貪婪心態，這麼快就賣掉，想說是不是價格開得太低惹。&lt;/p&gt;
 
