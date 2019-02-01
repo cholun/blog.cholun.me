@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Airpods"
+title:  "Apple Airpods"
 date:   2017-05-16
 tags:
 - Apple
 ---
-![Airpods](/assets/media/2017-05-16-Airpods.jpg)
+![Apple Airpods](/assets/media/2017-05-16-Apple-Airpods.jpg)
 
 音質普通，但頗方便。

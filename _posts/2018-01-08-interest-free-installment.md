@@ -3,7 +3,7 @@ layout: post
 title:  "interest-free installment"
 date:   2018-01-08
 tags:
--
+- finance
 ---
 ## 零利率分期付款
 

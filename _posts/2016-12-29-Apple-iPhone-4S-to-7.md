@@ -1,11 +1,11 @@
 ---
 layout: post
-title:  "iPhone 4S to 7"
+title:  "Apple iPhone 4S to 7"
 date:   2016-12-29
 tags:
 - Apple
 ---
-## iPhone 4S to 7
+## Apple iPhone 4S to 7
 
 因為iPhone 4S的電池似乎差不多惹，撐不了一天，所以換了iPhone 7。看地圖的時候覺得4S的寬度有點窄，所以捨棄iPhone SE，想說螢幕大一點也是不錯。
 

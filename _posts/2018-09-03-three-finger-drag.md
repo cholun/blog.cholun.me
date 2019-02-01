@@ -3,7 +3,7 @@ layout: post
 title:  "three finger drag"
 date:   2018-09-03
 tags:
-- 
+- Apple
 ---
 ![three finger drag](/assets/media/2018-09-03-three-finger-drag.jpg)
 

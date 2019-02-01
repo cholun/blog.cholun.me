@@ -1,11 +1,12 @@
+
 ---
 layout: post
-title:  "Macbook Pro 13' 2018"
+title:  "Apple Macbook Pro 13' 2018"
 date:   2018-09-07
 tags:
 - Apple
 ---
-## Macbook Pro 13' 2018
+## Apple Macbook Pro 13' 2018
 
 其實Macbook Air的效能夠我用了，但想要有好一點的螢幕，偏偏阿婆好幾年沒更新Macbook Air。看了Macbook的價格，猜想Macbook Air的後繼機種大概也不會多平價。
 

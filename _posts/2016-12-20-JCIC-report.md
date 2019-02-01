@@ -3,7 +3,7 @@ layout: post
 title:  "信用報告"
 date:   2016-12-20
 tags:
--
+- finance
 ---
 ![JCIC report](/assets/media/2016-12-20-JCIC-report.jpg)
 

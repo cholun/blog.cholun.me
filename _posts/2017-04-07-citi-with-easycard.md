@@ -3,7 +3,7 @@ layout: post
 title:  "花旗悠遊聯名卡"
 date:   2017-04-07
 tags:
-- credit card
+- finance
 ---
 ## 花旗悠遊聯名卡
 

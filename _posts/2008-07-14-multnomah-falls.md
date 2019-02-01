@@ -6,4 +6,4 @@ tags:
 - multnomah falls
 ---
 
-![multnomah falls](/assets/media/2008-07-14-multnomah-falls.jpg)
+![multnomah falls](/assets/media/2008-07-14-Multnomah-Falls.jpg)

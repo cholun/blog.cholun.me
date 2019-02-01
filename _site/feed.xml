@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>cholun</title>
-    <description>a spontaneous blog.</description>
+    <title>cholun's blog</title>
+    <description>Spontaneous and trivial things.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 01 Feb 2019 17:20:26 +0800</pubDate>
-    <lastBuildDate>Fri, 01 Feb 2019 17:20:26 +0800</lastBuildDate>
+    <pubDate>Fri, 01 Feb 2019 19:21:18 +0800</pubDate>
+    <lastBuildDate>Fri, 01 Feb 2019 19:21:18 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -47,6 +47,8 @@
         <pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/01/29/Credit-Card-2019-early.html</link>
         <guid isPermaLink="true">http://localhost:4000/2019/01/29/Credit-Card-2019-early.html</guid>
+        
+        <category>finance</category>
         
         
       </item>
@@ -120,6 +122,8 @@
         <link>http://localhost:4000/2018/10/29/Toyota-Prius.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/10/29/Toyota-Prius.html</guid>
         
+        <category>motor</category>
+        
         
       </item>
     
@@ -139,8 +143,19 @@
       </item>
     
       <item>
-        <title>Macbook Pro 13' 2018</title>
-        <description>&lt;h2 id=&quot;macbook-pro-13-2018&quot;&gt;Macbook Pro 13’ 2018&lt;/h2&gt;
+        <title>Apple Macbook Pro 13 2018</title>
+        <description>
+&lt;hr /&gt;
+&lt;p&gt;layout: post
+title:  “Apple Macbook Pro 13’ 2018”
+date:   2018-09-07
+tags:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;h2 id=&quot;apple&quot;&gt;Apple&lt;/h2&gt;
+    &lt;h2 id=&quot;apple-macbook-pro-13-2018&quot;&gt;Apple Macbook Pro 13’ 2018&lt;/h2&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
 
 &lt;p&gt;其實Macbook Air的效能夠我用了，但想要有好一點的螢幕，偏偏阿婆好幾年沒更新Macbook Air。看了Macbook的價格，猜想Macbook Air的後繼機種大概也不會多平價。&lt;/p&gt;
 
@@ -169,10 +184,8 @@
 &lt;p&gt;iPhone的lightening若是能改成type-c，那該有多好。&lt;/p&gt;
 </description>
         <pubDate>Fri, 07 Sep 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/09/07/Macbook-Pro-13-2018.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/09/07/Macbook-Pro-13-2018.html</guid>
-        
-        <category>Apple</category>
+        <link>http://localhost:4000/2018/09/07/Apple-Macbook-Pro-13-2018.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/09/07/Apple-Macbook-Pro-13-2018.html</guid>
         
         
       </item>
@@ -187,20 +200,22 @@
         <link>http://localhost:4000/2018/09/03/three-finger-drag.html</link>
         <guid isPermaLink="true">http://localhost:4000/2018/09/03/three-finger-drag.html</guid>
         
+        <category>Apple</category>
+        
         
       </item>
     
       <item>
         <title>Macbook Air 2012 mid</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2018-08-30-Macbook-Air-2012-mid.jpg&quot; alt=&quot;Macbook Air 2012 mid&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2018-08-30-Apple-Macbook-Air-2012-mid&quot; alt=&quot;Apple Macbook Air 2012 mid&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;第一次上網拍賣、面交在幾個小時內完成，很幸運。貪婪心態，這麼快就賣掉，想說是不是價格開得太低惹。&lt;/p&gt;
 
 &lt;p&gt;這台謎片播放器畢竟也陪伴自己6年多，賣掉後時常覺得不捨。蠻想留著機器當備用機，以後也可以拿來懷念。但有人能物盡其用，也是不錯辣。&lt;/p&gt;
 </description>
         <pubDate>Thu, 30 Aug 2018 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2018/08/30/Macbook-Air-2012-mid.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2018/08/30/Macbook-Air-2012-mid.html</guid>
+        <link>http://localhost:4000/2018/08/30/Apple-Macbook-Air-2012-mid.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2018/08/30/Apple-Macbook-Air-2012-mid.html</guid>
         
         <category>Apple</category>
         

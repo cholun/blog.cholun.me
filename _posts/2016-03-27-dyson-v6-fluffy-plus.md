@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "dyson v6 fluffy plus"
+title:  "Dyson V6 Fluffy Plus"
 date:   2016-03-27
 tags:
-- dyson
+- Dyson
 ---
 
-![](/assets/media/2016-03-27-dyson-v6-fluffy-plus.jpg)
+![Dyson V6 Fluffy Plus](/assets/media/2016-03-27-Dyson-V6-Fluffy-Plus.jpg)
 
 第一次用的時候，沒幾分鐘就沒電，囧。後來知道是壓到MAX的模式，如果是一般模式的話，比較有凍頭。
 

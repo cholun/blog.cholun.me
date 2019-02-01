@@ -1,12 +1,12 @@
 ---
 layout: post
-title:  "nike training club"
+title:  "Nike Training Club"
 date:   2016-10-02
 tags:
 - 
 ---
 
-## nike training club
+## Nike Training Club
 
 換了手機後，才發現這不錯的app。蠻貼心的是它可以客製化運動課程，即使沒有運動器材也行。對於我這種隨性、又不想花錢報名健身課程的肥宅來說挺實用。
 

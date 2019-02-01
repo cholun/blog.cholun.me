@@ -3,7 +3,7 @@ layout: post
 title:  "Credit Card 2019 early"
 date:   2019-01-29
 tags:
--
+- finance
 ---
 ## Credit Card 2019 early
 
