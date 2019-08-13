@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "牛肉麵"
+date:   2019-03-25
+tags:
+-
+---
+![beef noodles](/assets/media/2019-03-25-beef-noodles.jpg)
+
+據說是盛竹如愛吃的拉麵。
