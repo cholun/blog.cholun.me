@@ -5,9 +5,88 @@
     <description>Spontaneous and trivial things.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 13 Aug 2019 21:47:21 +0800</pubDate>
-    <lastBuildDate>Tue, 13 Aug 2019 21:47:21 +0800</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2019 18:34:02 +0800</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2019 18:34:02 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>Spider</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-12-04-spider.jpg&quot; alt=&quot;spider&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;卡關，不知道該怎麼解。&lt;/p&gt;
+</description>
+        <pubDate>Wed, 04 Dec 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/12/04/spider.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/12/04/spider.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>漁人碼頭</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-11-02-Tamsui.jpg&quot; alt=&quot;漁人碼頭&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 02 Nov 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/11/02/Tamsui.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/11/02/Tamsui.html</guid>
+        
+        <category>漁人碼頭</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>SYM DRG</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-10-26-SYM-DRG.jpg&quot; alt=&quot;SYM DRG&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;本來只看重機，但DRG實在太帥惹，覺得是速克達中標新立異的外型。試乘只能繞三圈，&lt;/p&gt;
+
+&lt;p&gt;主觀覺得Fighter比較有衝勁、DRG偏線性。或許是化油和噴射的差異吧？&lt;/p&gt;
+
+&lt;p&gt;我查Fighter的乾重是123KG、DRG的裝備重量是135KG。重量上應該沒有差太多。不過騎乘起來，DRG明顯靈巧許多。架中柱或轉小彎，DRG感覺像是100cc。&lt;/p&gt;
+
+&lt;p&gt;DRG的坐墊比Fighter好坐，煞車手感也明顯比Fighter好。重煞時，左手煞車作動的振幅，感覺比2017 Yamaha T-Max還輕微。&lt;/p&gt;
+
+&lt;p&gt;車廂確實不大，全罩能否塞入還得看帽體。但為了翹屁股、單搖臂，我可以。&lt;/p&gt;
+
+&lt;p&gt;問券妹妹有認真看意見回饋，還會詢問細節。蠻好的，我卻只有隨便應付，有些不好意思。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 26 Oct 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/10/26/SYM-DRG.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/10/26/SYM-DRG.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>禍不單行</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-08-24-back-luck.jpg&quot; alt=&quot;礁溪&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;平日的宜蘭，騎車頗舒服，但今天禍不單行。&lt;/p&gt;
+
+&lt;p&gt;早上禮讓救護車，就被後面恍神的大叔撞，車牌凹了；隔天下午騎到一半，皮帶斷惹。上星期保養時，才問老闆皮帶是否需要更換的；身上沒帶提款卡，車行附近的全家是國泰世華的提款機，不支援台新的無卡提款，又再跑反方向的便利商店。出門在外，提款卡還是帶著。&lt;/p&gt;
+
+&lt;p&gt;雖然是小羊被載，也還好附近車行有開。不然還真不知道該怎麼搭車回礁溪。&lt;/p&gt;
+</description>
+        <pubDate>Sat, 24 Aug 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/08/24/bad-luck.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/08/24/bad-luck.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>太麻里</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-07-27-Taimali.jpg&quot; alt=&quot;太麻里&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Sat, 27 Jul 2019 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2019/07/27/Taimali.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2019/07/27/Taimali.html</guid>
+        
+        <category>太麻里</category>
+        
+        
+      </item>
     
       <item>
         <title>五股重機展</title>
@@ -54,7 +133,9 @@
     
       <item>
         <title>Honda X-ADV</title>
-        <description>&lt;p&gt;忘了是哪根筋不對，近來一直看機車的資訊，想把機車換成黃紅牌，可以上高架道路。先前去內湖本田試騎，只有繞一圈，覺得不過癮。於是來租車店，這也是我第一次租車。&lt;/p&gt;
+        <description>&lt;h2 id=&quot;honda-x-adv&quot;&gt;Honda X-ADV&lt;/h2&gt;
+
+&lt;p&gt;忘了是哪根筋不對，近來一直看機車的資訊，想把機車換成黃紅牌，可以上高架道路。先前去內湖本田試騎，只有繞一圈，覺得不過癮。於是來租車店，這也是我第一次租車。&lt;/p&gt;
 
 &lt;p&gt;而租車竟然沒有任何保險，很不安心。&lt;/p&gt;
 
@@ -76,99 +157,6 @@
         <guid isPermaLink="true">http://localhost:4000/2019/05/30/a-village.html</guid>
         
         <category>馬岸</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>牛肉麵</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-03-25-beef-noodles.jpg&quot; alt=&quot;beef noodles&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;據說是盛竹如愛吃的拉麵。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Mar 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/03/25/beef-noodles.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/03/25/beef-noodles.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>山嵐拉麵</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-02-25-rame.jpg&quot; alt=&quot;ramen&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;雖然頗油膩，但我覺得蠻好吃的。&lt;/p&gt;
-</description>
-        <pubDate>Mon, 25 Feb 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/02/25/ramen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/02/25/ramen.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>該減肥惹</title>
-        <description>&lt;h2 id=&quot;該減肥惹&quot;&gt;該減肥惹&lt;/h2&gt;
-
-&lt;p&gt;體脂肪，尤其是我的內臟脂肪過高。翻到我剛進公司前的健康檢查，體重為72kg，六年來增加近10kg。&lt;/p&gt;
-
-&lt;p&gt;最近試著改掉早餐必喝的人工奶精奶茶、減少晚上喝珍奶的次數，以咖啡牛奶和紅茶包代替；增加跑步和舉重的頻率。體重、體脂肪略降，但內臟脂肪沒什麼變化。&lt;/p&gt;
-
-&lt;p&gt;據說飲食的影響甚大，即便高熱量和油炸的食物頗具吸引力，還是得忌口，不要狂嗑。&lt;/p&gt;
-
-&lt;p&gt;明明是個小叔，卻跟小朋友一樣難以自制，哈。&lt;/p&gt;
-</description>
-        <pubDate>Thu, 31 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/01/31/obesity.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/31/obesity.html</guid>
-        
-        <category>murmur</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Credit Card 2019 early</title>
-        <description>&lt;h2 id=&quot;credit-card-2019-early&quot;&gt;Credit Card 2019 early&lt;/h2&gt;
-
-&lt;p&gt;花旗現金：原本拿來逼悠遊卡，但今年三月後悠遊卡似乎不回饋，而且帳單折抵改成我幾乎刷不到的門檻。預計繳費完剪卡。&lt;/p&gt;
-
-&lt;p&gt;兆豐e秒刷：還在分期中，所以沒有剪。超過3,000分三期、網購2.5%或許可以加減用。&lt;/p&gt;
-
-&lt;p&gt;台新flygo：新辦的卡，其他現有的卡都是VISA，想要有張Mastercard，據說Mastercard的匯率比將漂亮。用於Google Adwords和其他外幣消費。&lt;/p&gt;
-
-&lt;p&gt;台新gogo：網購3.5%、etag、悠遊卡、nccc小額支付。&lt;/p&gt;
-
-&lt;p&gt;渣打現金回饋：本來想一卡用到底，可惜etag、悠遊卡等無法附加。由於特殊情感、相對無限制的回饋，渣打仍舊是我的主力。&lt;/p&gt;
-</description>
-        <pubDate>Tue, 29 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/01/29/Credit-Card-2019-early.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/29/Credit-Card-2019-early.html</guid>
-        
-        <category>finance</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>The North Face Access 22L Backpack</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-01-15-The-North-Face-Access-22L-Backpack.jpg&quot; alt=&quot;The North Face Access 22L Backpack&quot; /&gt;&lt;/p&gt;
-
-&lt;h2 id=&quot;the-north-face-access-22l-backpack&quot;&gt;The North Face Access 22L Backpack&lt;/h2&gt;
-
-&lt;p&gt;其實出勤率不高，只有帶電腦時才用得到，但就腦粉地喜歡這個後背包。&lt;/p&gt;
-
-&lt;p&gt;硬殼框架是買這背包的主要原因。高中時，有次打球不小心將球砸到書包內的輕薄CD隨身聽，隨身聽的上蓋因此不密合，頗心疼。硬殼多少避免一些粗魯的意外，比較安心。也或許是硬殼的關係，壓力分配的不錯，蠻好背的。&lt;/p&gt;
-
-&lt;p&gt;代價是背包的重量不輕；容量以外觀來說有點小；快取的小夾層不合我意，除了平板的夾層外，其他的夾層都很小。感覺新版25L的斜角夾層比較實用，不過我還是比較喜歡22L的外貌。&lt;/p&gt;
-
-&lt;p&gt;總之，買的得很開心。爽辣～&lt;/p&gt;
-</description>
-        <pubDate>Tue, 15 Jan 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/01/15/The-North-Face-Access-22L-Backpack.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/01/15/The-North-Face-Access-22L-Backpack.html</guid>
-        
-        <category>thenorthface</category>
         
         
       </item>
