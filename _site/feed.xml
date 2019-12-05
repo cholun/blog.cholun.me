@@ -5,13 +5,13 @@
     <description>Spontaneous and trivial things.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Dec 2019 18:34:02 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Dec 2019 18:34:02 +0800</lastBuildDate>
+    <pubDate>Thu, 05 Dec 2019 18:47:02 +0800</pubDate>
+    <lastBuildDate>Thu, 05 Dec 2019 18:47:02 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
         <title>Spider</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-12-04-spider.jpg&quot; alt=&quot;spider&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-12-04-spider.jpeg&quot; alt=&quot;spider&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;卡關，不知道該怎麼解。&lt;/p&gt;
 </description>
@@ -24,7 +24,7 @@
     
       <item>
         <title>漁人碼頭</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-11-02-Tamsui.jpg&quot; alt=&quot;漁人碼頭&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-11-02-Tamsui.jpeg&quot; alt=&quot;漁人碼頭&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 02 Nov 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/11/02/Tamsui.html</link>
@@ -37,7 +37,7 @@
     
       <item>
         <title>SYM DRG</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-10-26-SYM-DRG.jpg&quot; alt=&quot;SYM DRG&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-10-26-SYM-DRG.jpeg&quot; alt=&quot;SYM DRG&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;本來只看重機，但DRG實在太帥惹，覺得是速克達中標新立異的外型。試乘只能繞三圈，&lt;/p&gt;
 
@@ -60,7 +60,7 @@
     
       <item>
         <title>禍不單行</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-08-24-back-luck.jpg&quot; alt=&quot;礁溪&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-08-24-bad-luck.jpeg&quot; alt=&quot;礁溪&quot; /&gt;&lt;/p&gt;
 
 &lt;p&gt;平日的宜蘭，騎車頗舒服，但今天禍不單行。&lt;/p&gt;
 
@@ -77,7 +77,7 @@
     
       <item>
         <title>太麻里</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-07-27-Taimali.jpg&quot; alt=&quot;太麻里&quot; /&gt;&lt;/p&gt;
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-07-27-Taimali.jpeg&quot; alt=&quot;太麻里&quot; /&gt;&lt;/p&gt;
 </description>
         <pubDate>Sat, 27 Jul 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/07/27/Taimali.html</link>
