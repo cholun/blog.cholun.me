@@ -5,9 +5,85 @@
     <description>Spontaneous and trivial things.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 05 Dec 2019 18:47:02 +0800</pubDate>
-    <lastBuildDate>Thu, 05 Dec 2019 18:47:02 +0800</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2020 16:36:00 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-17-beach.jpeg&quot; alt=&quot;曼波海灘&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/09/23/2020-08-17-beach.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-08-17-beach.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-15-Fulong.jpeg&quot; alt=&quot;福隆海水浴場&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/09/23/2020-08-15-Fulong.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-08-15-Fulong.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-04-15-Sanzhi.jpeg&quot; alt=&quot;福德水車生態園區&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/09/23/2020-04-15-Sanzhi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-04-15-Sanzhi.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title></title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-02-27-hot-pot.jpeg&quot; alt=&quot;鼎王&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/09/23/2020-02-27-hot-pot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-02-27-hot-pot.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>AIDente</title>
+        <description>&lt;h2 id=&quot;aidente&quot;&gt;AIDente&lt;/h2&gt;
+
+&lt;p&gt;才用了兩年的Macbook Pro 13，已顯示Service recommended，電池健康度為70%。上一台Macbook Air似乎是到第三年，電池才有明顯衰退。&lt;/p&gt;
+
+&lt;p&gt;自認為沒有很操電腦，或許是都接上電源，讓電池長時間100%的緣故吧。尋求大神時，意外發現AIDente。先前明明有搜尋可以設定充電趴數的軟體，竟然錯過了AIDente。相見恨晚。&lt;/p&gt;
+</description>
+        <pubDate>Sun, 13 Sep 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/09/13/AIDente.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/13/AIDente.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>Mark Levinson</title>
+        <description>&lt;h2 id=&quot;mark-levinson&quot;&gt;Mark Levinson&lt;/h2&gt;
+
+&lt;p&gt;不覺得Mark Levinson有什麼驚艷的音色，因為木耳的關係，本身也沒有無損的音源，就沒有太在意。車上有usb插座可以供電，但每次得解鎖iphone才會充電，頗麻煩。所以我都使用點菸器充電、藍芽連音響。&lt;/p&gt;
+
+&lt;p&gt;最近Airpods右耳的電池不行了，聽十分多鐘沒電，便尋找替代品。逛著逛著，發現一位youtuber提及：藍芽和有線的音質，差異非常明顯。&lt;/p&gt;
+
+&lt;p&gt;於是我開始用有線的方式播音樂。恩，聽起來似乎更清晰，頓點也明顯許多。應該不是我的幻覺。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 01 Sep 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/09/01/Mark-Levinson.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/01/Mark-Levinson.html</guid>
+        
+        
+      </item>
     
       <item>
         <title>Spider</title>
@@ -71,92 +147,6 @@
         <pubDate>Sat, 24 Aug 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/08/24/bad-luck.html</link>
         <guid isPermaLink="true">http://localhost:4000/2019/08/24/bad-luck.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>太麻里</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-07-27-Taimali.jpeg&quot; alt=&quot;太麻里&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Sat, 27 Jul 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/07/27/Taimali.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/27/Taimali.html</guid>
-        
-        <category>太麻里</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>五股重機展</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-07-19-motorcycle-show.jpg&quot; alt=&quot;motorcycle show&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;第一次以騎摩托車的方式從台北到五股，不能走高架橋，一直迷路。&lt;/p&gt;
-
-&lt;p&gt;挑了非假日去，人潮依舊爆滿，冷氣頗弱。跨坐不少的機車，還跟小三合照，有點白痴。&lt;/p&gt;
-
-&lt;p&gt;SUZUKI的妹子很不錯，應該多拍幾張。&lt;/p&gt;
-</description>
-        <pubDate>Fri, 19 Jul 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/07/19/motorcycle-show.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/19/motorcycle-show.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>屋台拉麵</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-07-15-ramen.jpg&quot; alt=&quot;ramen&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Mon, 15 Jul 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/07/15/ramen.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/15/ramen.html</guid>
-        
-        <category>屋台拉麵</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>惠蓀林場</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-07-12-惠蓀林場.jpg&quot; alt=&quot;惠蓀林場&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Fri, 12 Jul 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/07/12/%E6%83%A0%E8%93%80%E6%9E%97%E5%A0%B4.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/07/12/%E6%83%A0%E8%93%80%E6%9E%97%E5%A0%B4.html</guid>
-        
-        <category>惠蓀林場</category>
-        
-        
-      </item>
-    
-      <item>
-        <title>Honda X-ADV</title>
-        <description>&lt;h2 id=&quot;honda-x-adv&quot;&gt;Honda X-ADV&lt;/h2&gt;
-
-&lt;p&gt;忘了是哪根筋不對，近來一直看機車的資訊，想把機車換成黃紅牌，可以上高架道路。先前去內湖本田試騎，只有繞一圈，覺得不過癮。於是來租車店，這也是我第一次租車。&lt;/p&gt;
-
-&lt;p&gt;而租車竟然沒有任何保險，很不安心。&lt;/p&gt;
-
-&lt;p&gt;上國3甲時有被側風的強度嚇到，想說兩百多公斤的車仍舊有感。雖然車重、馬力不大，但扭力不錯，粗獷的引擎聲是我喜歡的調性。不用夾油箱、雙離合器、速克達騎姿，經過水窪不會濕腳、有置物空間，裝個後箱也不突兀。頗心動。&lt;/p&gt;
-</description>
-        <pubDate>Tue, 25 Jun 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/06/25/Honda-XADV.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/06/25/Honda-XADV.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>馬岸</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-05-30-a-village.jpg&quot; alt=&quot;a village&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Thu, 30 May 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/05/30/a-village.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/05/30/a-village.html</guid>
-        
-        <category>馬岸</category>
         
         
       </item>
