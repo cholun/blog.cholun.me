@@ -5,53 +5,9 @@
     <description>Spontaneous and trivial things.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2020 16:36:00 +0800</lastBuildDate>
+    <pubDate>Wed, 23 Sep 2020 16:43:56 +0800</pubDate>
+    <lastBuildDate>Wed, 23 Sep 2020 16:43:56 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-17-beach.jpeg&quot; alt=&quot;曼波海灘&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/09/23/2020-08-17-beach.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-08-17-beach.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-15-Fulong.jpeg&quot; alt=&quot;福隆海水浴場&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/09/23/2020-08-15-Fulong.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-08-15-Fulong.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-04-15-Sanzhi.jpeg&quot; alt=&quot;福德水車生態園區&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/09/23/2020-04-15-Sanzhi.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-04-15-Sanzhi.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title></title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-02-27-hot-pot.jpeg&quot; alt=&quot;鼎王&quot; /&gt;&lt;/p&gt;
-</description>
-        <pubDate>Wed, 23 Sep 2020 16:36:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/09/23/2020-02-27-hot-pot.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/23/2020-02-27-hot-pot.html</guid>
-        
-        
-      </item>
     
       <item>
         <title>AIDente</title>
@@ -81,6 +37,58 @@
         <pubDate>Tue, 01 Sep 2020 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2020/09/01/Mark-Levinson.html</link>
         <guid isPermaLink="true">http://localhost:4000/2020/09/01/Mark-Levinson.html</guid>
+        
+        
+      </item>
+    
+      <item>
+        <title>曼波海灘</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-17-beach.jpeg&quot; alt=&quot;曼波海灘&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Aug 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/08/17/beach.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/17/beach.html</guid>
+        
+        <category>曼波海灘</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>福隆海水浴場</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-15-Fulong.jpeg&quot; alt=&quot;福隆海水浴場&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 14 Aug 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/08/14/Fulong.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/08/14/Fulong.html</guid>
+        
+        <category>福隆海水浴場</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>福德水車生態園區</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-04-15-Sanzhi.jpeg&quot; alt=&quot;福德水車生態園區&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Wed, 15 Apr 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/04/15/Sanzhi.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/04/15/Sanzhi.html</guid>
+        
+        <category>福德水車生態園區</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>鼎王</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-02-27-hot-pot.jpeg&quot; alt=&quot;鼎王&quot; /&gt;&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Feb 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/02/27/hot-pot.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/02/27/hot-pot.html</guid>
+        
+        <category>鼎王</category>
         
         
       </item>
