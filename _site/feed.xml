@@ -5,8 +5,8 @@
     <description>Spontaneous and trivial things.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Wed, 23 Sep 2020 16:43:56 +0800</pubDate>
-    <lastBuildDate>Wed, 23 Sep 2020 16:43:56 +0800</lastBuildDate>
+    <pubDate>Fri, 25 Sep 2020 11:06:55 +0800</pubDate>
+    <lastBuildDate>Fri, 25 Sep 2020 11:06:55 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -44,6 +44,10 @@
       <item>
         <title>曼波海灘</title>
         <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-08-17-beach.jpeg&quot; alt=&quot;曼波海灘&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;曼波海灘就在民宿的附近，人煙稀少，頗悠哉。或許是疫情影響無法出國，花東的人潮不少。&lt;/p&gt;
+
+&lt;p&gt;人少就讚。&lt;/p&gt;
 </description>
         <pubDate>Mon, 17 Aug 2020 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2020/08/17/beach.html</link>

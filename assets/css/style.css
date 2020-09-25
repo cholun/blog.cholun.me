@@ -167,12 +167,12 @@ img {
 
 /*#media screen*/
 @media screen and (max-width: 700px) {
-    
+
     .post-content {
         padding: 0 2%;
         margin: 0 0 30px 0;
     }
-    
+
     img {
         width: 100%;
         margin: -2% auto 0;
