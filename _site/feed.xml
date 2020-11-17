@@ -2,12 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>cholun's blog</title>
-    <description>Spontaneous and trivial things.</description>
+    <description>Spontaneous and trivial.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 25 Sep 2020 11:06:55 +0800</pubDate>
-    <lastBuildDate>Fri, 25 Sep 2020 11:06:55 +0800</lastBuildDate>
+    <pubDate>Tue, 17 Nov 2020 10:50:32 +0800</pubDate>
+    <lastBuildDate>Tue, 17 Nov 2020 10:50:32 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
+    
+      <item>
+        <title>東京醬油拉麵</title>
+        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2020-10-30-no-ramen-no-life.jpeg&quot; alt=&quot;東京醬油拉麵&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;以往吃拉麵都選擇原味的鹹度，但醬油拉麵對我來說真的太鹹惹。下次要安分點清淡口味。&lt;/p&gt;
+</description>
+        <pubDate>Fri, 30 Oct 2020 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2020/10/30/no-ramen-no-life.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/10/30/no-ramen-no-life.html</guid>
+        
+        <category>東京醬油拉麵</category>
+        
+        
+      </item>
     
       <item>
         <title>AIDente</title>
@@ -142,23 +157,6 @@
         <pubDate>Sat, 26 Oct 2019 00:00:00 +0800</pubDate>
         <link>http://localhost:4000/2019/10/26/SYM-DRG.html</link>
         <guid isPermaLink="true">http://localhost:4000/2019/10/26/SYM-DRG.html</guid>
-        
-        
-      </item>
-    
-      <item>
-        <title>禍不單行</title>
-        <description>&lt;p&gt;&lt;img src=&quot;/assets/media/2019-08-24-bad-luck.jpeg&quot; alt=&quot;礁溪&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;平日的宜蘭，騎車頗舒服，但今天禍不單行。&lt;/p&gt;
-
-&lt;p&gt;早上禮讓救護車，就被後面恍神的大叔撞，車牌凹了；隔天下午騎到一半，皮帶斷惹。上星期保養時，才問老闆皮帶是否需要更換的；身上沒帶提款卡，車行附近的全家是國泰世華的提款機，不支援台新的無卡提款，又再跑反方向的便利商店。出門在外，提款卡還是帶著。&lt;/p&gt;
-
-&lt;p&gt;雖然是小羊被載，也還好附近車行有開。不然還真不知道該怎麼搭車回礁溪。&lt;/p&gt;
-</description>
-        <pubDate>Sat, 24 Aug 2019 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2019/08/24/bad-luck.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2019/08/24/bad-luck.html</guid>
         
         
       </item>
