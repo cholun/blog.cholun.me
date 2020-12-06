@@ -5,8 +5,8 @@
     <description>Spontaneous and trivial.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 17 Nov 2020 10:50:32 +0800</pubDate>
-    <lastBuildDate>Tue, 17 Nov 2020 10:50:32 +0800</lastBuildDate>
+    <pubDate>Sun, 06 Dec 2020 21:37:11 +0800</pubDate>
+    <lastBuildDate>Sun, 06 Dec 2020 21:37:11 +0800</lastBuildDate>
     <generator>Jekyll v3.8.5</generator>
     
       <item>
@@ -25,16 +25,16 @@
       </item>
     
       <item>
-        <title>AIDente</title>
-        <description>&lt;h2 id=&quot;aidente&quot;&gt;AIDente&lt;/h2&gt;
+        <title>AlDente</title>
+        <description>&lt;h2 id=&quot;aldente&quot;&gt;AlDente&lt;/h2&gt;
 
 &lt;p&gt;才用了兩年的Macbook Pro 13，已顯示Service recommended，電池健康度為70%。上一台Macbook Air似乎是到第三年，電池才有明顯衰退。&lt;/p&gt;
 
-&lt;p&gt;自認為沒有很操電腦，或許是都接上電源，讓電池長時間100%的緣故吧。尋求大神時，意外發現AIDente。先前明明有搜尋可以設定充電趴數的軟體，竟然錯過了AIDente。相見恨晚。&lt;/p&gt;
+&lt;p&gt;自認為沒有很操電腦，或許是都接上電源，讓電池長時間100%的緣故吧。尋求大神時，意外發現AlDente。先前明明有搜尋可以設定充電趴數的軟體，竟然錯過了AlDente。相見恨晚。&lt;/p&gt;
 </description>
         <pubDate>Sun, 13 Sep 2020 00:00:00 +0800</pubDate>
-        <link>http://localhost:4000/2020/09/13/AIDente.html</link>
-        <guid isPermaLink="true">http://localhost:4000/2020/09/13/AIDente.html</guid>
+        <link>http://localhost:4000/2020/09/13/AlDente.html</link>
+        <guid isPermaLink="true">http://localhost:4000/2020/09/13/AlDente.html</guid>
         
         
       </item>
